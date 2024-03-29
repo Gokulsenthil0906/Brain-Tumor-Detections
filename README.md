@@ -4,4 +4,8 @@
 
 npm start 
 
+### start the treminal inside a Server Folder ###
+
+python app.py
+
 
